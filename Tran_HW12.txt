@@ -2,23 +2,20 @@ Project Name: Hands-On Exercises 3.5-3.6
 Author: Melinda Tran
 Date Last Modified: April 3, 2019
 
-<head>
-	<style>
+1.
+<style>
 	 a { text-decoration: none; }
 	 body { background-color: white;
 		color: black;
-		font-family: Arial, Helvetica, sans-serif;
-	 }
+		font-family: Arial, Helvetica, sans-serif; }
 	 .new { font-weight: bold;
-		font-style: italic;
-	 }
-	</style>
-</head>
+		font-style: italic; }
+</style>
 
+2.
 body { background-color: #FFF8DC;
 	  color: #000099
-	  font-family: Arial, Helvetica, sans-serif;
-   }
-   .new { font-weight: bold;
-	  font-style: italic;
-   }
+	  font-family: Arial, Helvetica, sans-serif; }
+
+.new { font-weight: bold;
+	  font-style: italic; }
