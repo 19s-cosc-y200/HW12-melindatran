@@ -8,6 +8,9 @@ Date Last Modified: April 3, 2019
 	 body { background-color: white;
 		color: black;
 		font-family: Arial, Helvetica, sans-serif; }
+colors should be in HEX
+should be a, not body
+
 	 .new { font-weight: bold;
 		font-style: italic; }
 </style>
@@ -19,3 +22,5 @@ body { background-color: #FFF8DC;
 
 .new { font-weight: bold;
 	  font-style: italic; }
+	  
+should be id, not class
